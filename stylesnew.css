@@ -1,0 +1,29 @@
+#myCarousel{
+	margin-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	clear: both;
+
+}
+.carousel-caption {
+	font-size: 20px;
+	color:black;
+}
+.carousel .countainer{
+	clear: both;
+}
+.carousel-caption h2 {
+	font-size: 28px;
+}
+
+
+.carousel-inner > .item >img{
+	width:640px;
+	height: 360px;
+}
+
+
+.carousel{
+	width:640px;
+	height: 360px;
+}
