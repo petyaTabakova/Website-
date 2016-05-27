@@ -1,4 +1,4 @@
-#myCarousel{
+/*#myCarousel{
 	margin-top: 10px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -26,4 +26,19 @@
 .carousel{
 	width:640px;
 	height: 360px;
+}
+*/
+.form-inline{
+	float: right;
+
+}
+.navbar-wrapper{
+	background-color: #777;
+}
+/*.container{
+	background-color: #5bc0de;*/
+
+}
+.navbar-header{
+	background-color: #5bc0de;
 }
